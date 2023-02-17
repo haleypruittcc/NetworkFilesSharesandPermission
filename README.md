@@ -55,7 +55,8 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 </p>
 
 - Go back to DC-1, in Active Directory 
-    - Create a security group called “ACCOUNTANTS”
+    - Create a security group called “ACCOUNTANTS” , Make an folder of Organizational Units " _Security_Groups" by right click -> Groups-> Cybersecurity-> Security-> Press ok -> cybersecurity -> members-> Add "username" of your chose -> Apply -> Ok.
+    
 - On the “accounting” folder you created earlier, set the following permissions:
     - Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write”
 - On Client-1, as  <someuser>, try to access the accountants folder. 
