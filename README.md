@@ -70,5 +70,5 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 - Sign back into Client-1 as <someuser> and try to access the “Cybersecurity” share in \\DC-1\ 
       - Does it work now?
 
-
+🎉Congratulations! You are finally done with Active Directory, DNS, Network Files shares and permissions🎉
 
